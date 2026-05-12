@@ -8,9 +8,9 @@
 
 ## About Me
 
-- Currently building AI-powered healthcare analytics & machine learning applications
+- Built AI-powered healthcare analytics & machine learning applications
 - - Advancing skills in Machine Learning, Predictive Modeling & Data Visualization
-  - - Studying Data Analytics & Applied Analytics
+  - - Graduated with Master of Science in Data Analytics & Applied Analytics
     - - Based in St. Louis, Missouri, USA
       - - Open to roles in Data Science, Data Engineer, ML Engineering & Business Analytics
        
