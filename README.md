@@ -12,7 +12,7 @@
 - - Advancing skills in Machine Learning, Predictive Modeling & Data Visualization
   - - Studying Data Analytics & Applied Analytics
     - - Based in St. Louis, Missouri, USA
-      - - Open to roles in Data Science, ML Engineering & Business Analytics, Data Engineer, Data Scientist
+      - - Open to roles in Data Science, Data Engineer, ML Engineering & Business Analytics
        
         - ---
 
@@ -21,10 +21,17 @@
         **Languages & Tools**
 
         ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+        ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+        ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
         ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
         ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
         ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    
+
+        **Analytics & BI Tools**
+
+        ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+        ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+        ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
         **Data & ML Libraries**
 
@@ -40,9 +47,9 @@
         |---------|-------------|------|
         | [AI Medical Diagnosis App](https://github.com/Vemula1357/AI-Medical-Diagnosis-Application) | ML disease prediction model with patient analytics & healthcare reporting | Python, Scikit-learn, Jupyter |
         | [Automobiles Analytics Dashboard](https://github.com/Vemula1357/exam1syduluvemula) | Interactive Streamlit app for automobile data exploration & trend analysis | Python, Streamlit, Pandas |
-        | [Applied Analytics Final Project](https://github.com/Vemula1357/Applied-Analytics-Method-2-Final-Project) | Comprehensive applied analytics capstone project | Python, Analytics |
+        | [Applied Analytics Final Project](https://github.com/Vemula1357/Applied-Analytics-Method-2-Final-Project) | Comprehensive applied analytics capstone using real-world datasets | Python, R, Analytics |
         | [Integrative Project 3](https://github.com/Vemula1357/Integrative-Project-3) | Advanced integrative analytics combining ML & data visualization | Jupyter, HTML |
-        | [Integrative Project 2](https://github.com/Vemula1357/Integrative-Project-2) | Sentiment analysis on restaurant reviews using NLP | Python, NLP, Jupyter |
+        | [Integrative Project 2](https://github.com/Vemula1357/Integrative-Project-2) | Sentiment analysis on restaurant reviews using NLP techniques | Python, NLP, Jupyter |
         | [Integrative Project 1](https://github.com/Vemula1357/Integrative-Project-1) | Foundational data analytics & statistical modeling | Jupyter, HTML |
 
         ---
