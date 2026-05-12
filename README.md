@@ -11,8 +11,8 @@
 - Currently building AI-powered healthcare analytics & machine learning applications
 - - Advancing skills in Machine Learning, Predictive Modeling & Data Visualization
   - - Studying Data Analytics & Applied Analytics
-    - - Based in St. Charles, Missouri, USA
-      - - Open to roles in Data Science, ML Engineering & Business Analytics
+    - - Based in St. Louis, Missouri, USA
+      - - Open to roles in Data Science, ML Engineering & Business Analytics, Data Engineer, Data Scientist
        
         - ---
 
@@ -24,6 +24,9 @@
         ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
         ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
         ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+        SQL
+        R
+        Power Bi
 
         **Data & ML Libraries**
 
